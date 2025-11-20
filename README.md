@@ -11,21 +11,9 @@
   <section style="margin-top:8px;">
     <h2 style="font-size:1.1rem; margin-bottom:6px;">🔗 Pagine</h2>
     <ul style="padding-left:1.1rem; margin-top:0;">
-      <li><a href="./math/" title="Research"> Math </a></li>
-      <li><a href="./music/" title="Teaching"> </a></li>
+      <li><a href="./research/" title="Research"> Ricerca teoria dei modelli etc etc </a></li>
+      <li><a href="./teaching/" title="Teaching"> Appunti, lezioni, esercitazioni etc </a></li>
       <li><a href="./other/" title="Other interests"> Music, movies, politics etc etc</a></li>
     </ul>
   </section>
-
-  <section style="margin-top:12px;">
-    <h2 style="font-size:1.1rem; margin-bottom:6px;">📂 Repository</h2>
-    <p style="margin:0;">
-      Questa repo ospita il sorgente del sito: pagine semplici in HTML/Markdown e risorse statiche.
-      Per vedere il sito online usa GitHub Pages (impostazioni → Pages) oppure apri <code>index.html</code>.
-    </p>
-  </section>
-
-  <footer style="margin-top:16px; font-size:0.95rem; color:#586069;">
-    <p style="margin:0;">Se vuoi, posso generare le pagine di esempio (<code>math/index.md</code>, <code>music/index.md</code>, ...) o un semplice template HTML per il sito.</p>
-  </footer>
 </div>
